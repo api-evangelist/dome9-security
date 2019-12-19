@@ -1,0 +1,78 @@
+{
+    "name": "Dome9 Security",
+    "description": "Dome9 delivers full visibility, control and faster time to protection as organizations scale in AWS, Azure and Google Cloud environments. Get started now.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1834-dome9-security.jpg",
+    "tags": [
+        "api service provider",
+        "cloud",
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/dome9-security\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Dome9 Security",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1834-dome9-security.jpg",
+            "humanURL": "http:\/\/dome9.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/dome9-security-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.dome9.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.dome9.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.dome9.com\/feed?cat=22"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/dome9-security"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/dome9-security"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.dome9.com\/"
+        },
+        {
+            "type": "Email",
+            "url": "contact@dome9.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@dome9.com"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/dome9.com\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Dome9"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/dome9.com"
+        }
+    ]
+}
